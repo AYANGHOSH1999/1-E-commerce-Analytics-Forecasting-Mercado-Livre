@@ -86,10 +86,10 @@ This project combines SQL, Power BI, and Python-based time-series forecasting to
 ## 👨‍💻 Author
 
 **Ayan Ghosh**  
-📍 Howrah, West Bengal, India  
-📫 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/ayan-ghosh-b9955933a/)) |
+📍 Howrah, West Bengal, India   |
 🌐 [GitHub](https://github.com/AYANGHOSH1999)
-
+📧 ayanghosh6291@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/ayan-ghosh-b9955933a/)
 ---
 
 Feel free to fork, star, or contribute to this project!
